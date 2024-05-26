@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+</div>  
+  
 
-<!--
-**JMMC22/jmmc22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm José María, an iOS developer 👨‍💻</div>  
+  
 
-Here are some ideas to get you started:
+- 🍏 I have been an iOS developer for three years now.  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 After finishing my degree I decided to embark on the world of mobile devices.  
+  
+
+- 📕 I thrive in team environments and love learning from others. 
+  
+
+<br/>  
+
+
+## Connect with me  
+<a href="https://linkedin.com/in/josmarcre" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
