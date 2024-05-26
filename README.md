@@ -6,10 +6,10 @@
 ### <div align="center">I'm José María, an iOS developer 👨‍💻</div>  
   
 
-- 🍏 I have been an iOS developer for three years now.  
+- 🍏 I have been an iOS developer for three years.  
   
 
-- 👨‍🎓 After finishing my degree I decided to embark on the world of mobile devices.  
+- 👨‍🎓 After completing my degree in Software Engineering, I decided to embark on the world of mobile devices. 
   
 
 - 📕 I thrive in team environments and love learning from others. 
